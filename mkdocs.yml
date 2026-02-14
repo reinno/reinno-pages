@@ -1,0 +1,39 @@
+site_name: Reinno Pages
+site_url: https://reinno.github.io/reinno-pages/
+site_description: Personal blog and notes
+site_author: Reinno
+
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - footer.prev_next
+    - navigation.side.indexes
+    - revision.date
+    - revision.history
+
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+    - 2026:
+      - Hello World: blog/2026/hello-world.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - attr_list
+  - meta
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra_css: []
