@@ -17,7 +17,7 @@ nav:
   - Blog:
     - blog/index.md
     - 2026:
-      - Hello World: blog/2026/hello-world.md
+      - "Observation Note #001": blog/2026/hello-world.md
   - About: about.md
 
 markdown_extensions:
