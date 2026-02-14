@@ -36,4 +36,5 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
 
-extra_css: []
+extra_css:
+  - css/custom.css

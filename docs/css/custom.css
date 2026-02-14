@@ -1,0 +1,28 @@
+.admonition {
+  border: 1px solid;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+}
+
+.admonition-title {
+  font-weight: bold;
+  margin-bottom: 0.4em;
+}
+
+.admonition.abstract,
+.admonition.summary {
+  border-color: #6a9955;
+}
+
+.admonition.abstract .admonition-title,
+.admonition.summary .admonition-title {
+  color: #6a9955;
+}
+
+.admonition.note {
+  border-color: #569cd6;
+}
+
+.admonition.note .admonition-title {
+  color: #569cd6;
+}
