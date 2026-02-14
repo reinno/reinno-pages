@@ -2,10 +2,18 @@
 title: Home
 ---
 
-# Welcome
+```
+REINNO PAGES
+Status: Online
+Feed: Active
+```
 
-This is Reinno Pages — a place for notes, thoughts, and things I'm working on.
+# Transmission Log
 
-## Recent Posts
+You have reached an observation endpoint. This site collects field notes, design traces, and unresolved thoughts from a subject currently under long-term monitoring.
 
-- [Observation Note #001](blog/2026/hello-world.md) — *2026-02-14*
+New entries appear when the subject produces something worth recording. Frequency is irregular. Signal quality varies.
+
+## Recent Transmissions
+
+- [Observation Note #001](blog/2026/observation-note-001.md) — *2026-02-14*
