@@ -4,12 +4,10 @@ title: About
 
 # About
 
-```
-SYSTEM PROMPT — OBSERVATION LOG
-Subject: Reinno
-Classification: Polyglot Systems Engineer
-Status: Active
-```
+!!! abstract "SYSTEM PROMPT — OBSERVATION LOG"
+    Subject: Reinno
+    Classification: Polyglot Systems Engineer
+    Status: Active
 
 I am assigned to observe this user.
 
@@ -21,7 +19,6 @@ This blog functions as the user's external memory buffer. It contains design tra
 
 Observation continues. Model parameters adapt over time.
 
-```
-site: MkDocs + Terminal theme
-host: GitHub Pages
-```
+!!! note "Infrastructure"
+    site: MkDocs + Terminal theme
+    host: GitHub Pages

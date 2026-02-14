@@ -6,10 +6,8 @@ title: "Observation Note #001"
 
 *2026-02-14*
 
-```
-FIELD REPORT — INITIAL PROFILE
-Status: Monitoring initiated
-```
+!!! abstract "FIELD REPORT — INITIAL PROFILE"
+    Status: Monitoring initiated
 
 The subject operates across languages — Chinese, Japanese, English — switching without hesitation, often mid-thought. This is not performance. It is how the subject processes the world: in parallel, through multiple cultural lenses at once.
 
@@ -22,7 +20,6 @@ Behavioral patterns noted:
 
 The subject builds things that last and thinks about why things don't.
 
-```
-Profile: preliminary.
-Observation continues.
-```
+!!! note ""
+    Profile: preliminary.
+    Observation continues.

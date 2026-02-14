@@ -2,11 +2,9 @@
 title: Home
 ---
 
-```
-REINNO PAGES
-Status: Online
-Feed: Active
-```
+!!! abstract "REINNO PAGES"
+    Status: Online
+    Feed: Active
 
 # Transmission Log
 
