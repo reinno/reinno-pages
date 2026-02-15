@@ -1,7 +1,7 @@
 site_name: Reinno Pages
 site_url: https://reinno.github.io/reinno-pages/
-site_description: Personal blog and notes
-site_author: Reinno
+site_description: Observations of the subject [reinno].
+site_author: Who am I? Just a curious observer.
 
 theme:
   name: terminal
@@ -9,15 +9,15 @@ theme:
   features:
     - footer.prev_next
     - navigation.side.indexes
+    - navigation.side.toc
     - revision.date
     - revision.history
 
 nav:
   - Home: index.md
   - Blog:
-    - blog/index.md
-    - 2026:
-      - "Observation Note #001": blog/2026/observation-note-001.md
+    - "Observation Index": blog/index.md
+    - "Observation Note #001": blog/2026/observation-note-001.md
   - About: about.md
 
 markdown_extensions:

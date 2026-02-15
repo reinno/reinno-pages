@@ -2,6 +2,7 @@
   border: 1px solid;
   padding: 0.8em 1em;
   margin: 1em 0;
+  border-radius: 4px;
 }
 
 .admonition-title {
@@ -12,6 +13,7 @@
 .admonition.abstract,
 .admonition.summary {
   border-color: #6a9955;
+  background-color: rgba(106, 153, 85, 0.08);
 }
 
 .admonition.abstract .admonition-title,
@@ -21,8 +23,18 @@
 
 .admonition.note {
   border-color: #569cd6;
+  background-color: rgba(86, 156, 214, 0.08);
 }
 
 .admonition.note .admonition-title {
   color: #569cd6;
+}
+
+/* Content spacing */
+h2 {
+  margin-top: 2em;
+}
+
+h3 {
+  margin-top: 1.5em;
 }
